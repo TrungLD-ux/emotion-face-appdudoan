@@ -1,7 +1,6 @@
-streamlit==1.39.0
-opencv-python-headless==4.11.0.86
-scikit-learn==1.5.2
+streamlit
+opencv-python-headless
 numpy
 pillow
-joblib
 scikit-image
+joblib
